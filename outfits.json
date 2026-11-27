@@ -1,5 +1,39 @@
 [
   {
+    "batch_id": "batch_20261127_bb81a2",
+    "theme_title": "Espresso & Cream Oversized Knit Edit",
+    "season_label": "Autumn/Winter Casual Luxe Capsule",
+    "published_at": "2026-11-27T18:30:59.964509+00:00",
+    "page_href": "batch_20261127_bb81a2.html",
+    "hero_image": "assets/batch_20261127_bb81a2/slide_1_hero.png",
+    "item_count": 6,
+    "price_min": 9.99,
+    "price_max": 29.99,
+    "categories": [
+      "Knitwear & Tops",
+      "Tailoring & Bottoms",
+      "Footwear",
+      "Handbag",
+      "Sunglasses",
+      "Jewellery"
+    ],
+    "colorways": [
+      "Cream & Brown",
+      "Chocolate Brown",
+      "Beige, Tan & Brown",
+      "Dark Brown",
+      "Gold"
+    ],
+    "item_titles": [
+      "Womens Striped Knitted Sweater Ribbed Crew Neck Long Sleeve Pullover Formal Everyday Casual Ladies Jumper Size 8-18",
+      "SINOPHANT High Waisted Leggings for Women Workout Gym Yoga",
+      "LUCKY STEP Women's Chunky Platform Trainers, Casual Lace-Up Shoes",
+      "Brown Suede Hobo Tote Bag, Large Slouchy Shoulder Handbag for Women Daily",
+      "Long Keeper Retro Chunky Sunglasses Thick Frame for Women Men Trendy Rectangular Black Shades Sun Glasses UV400 Protection",
+      "Senteria 12mm Wide Chunky 14K Gold Plated Hoop Earrings for women Thick"
+    ]
+  },
+  {
     "batch_id": "batch_20261127_8670ee",
     "theme_title": "Monochrome Taupe & Cream Luxe Edit",
     "season_label": "Autumn/Winter Cozy Minimalist Capsule",
