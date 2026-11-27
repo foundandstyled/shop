@@ -1,5 +1,36 @@
 [
   {
+    "batch_id": "batch_20261127_56712e",
+    "theme_title": "Espresso Star Fleece & Suede Edit",
+    "season_label": "Autumn/Winter Cozy Casual Capsule",
+    "published_at": "2026-11-27T08:24:47.445688+00:00",
+    "page_href": "batch_20261127_56712e.html",
+    "hero_image": "assets/batch_20261127_56712e/slide_1_hero.png",
+    "item_count": 5,
+    "price_min": 11.99,
+    "price_max": 35.0,
+    "categories": [
+      "Knitwear & Tops",
+      "Tailoring & Bottoms",
+      "Footwear",
+      "Handbag",
+      "Jewellery"
+    ],
+    "colorways": [
+      "Espresso & Cream",
+      "Espresso Brown",
+      "Dark Brown",
+      "Gold"
+    ],
+    "item_titles": [
+      "Mountain Warehouse Teddy Womens Half-Zip Fleece Jumper",
+      "JOYSPELS Women's Seamless High Waist Scrunch Ruched Bums Gym Leggings",
+      "Rocket Dog Women's Sugar GliderClog",
+      "Adiwo Faux Suede Tote Bag for Women, Hobos Crossbody Bag, Slouchy Large Work Tote Handbag, Women's Shoulder Bags Retro, Solid Color, Durable, Not Easily Deformed, for Travel Work Daily Use",
+      "Silvora Chunky Huggies Silver/Gold/Black Small Hoop Earrings for Women"
+    ]
+  },
+  {
     "batch_id": "batch_20261124_28d0f4",
     "theme_title": "Brown Jacket & Striped Shirt Capsule",
     "season_label": "Autumn Transition Edit",
