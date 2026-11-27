@@ -1,5 +1,40 @@
 [
   {
+    "batch_id": "batch_20261127_8670ee",
+    "theme_title": "Monochrome Taupe & Cream Luxe Edit",
+    "season_label": "Autumn/Winter Cozy Minimalist Capsule",
+    "published_at": "2026-11-27T13:00:52.283371+00:00",
+    "page_href": "batch_20261127_8670ee.html",
+    "hero_image": "assets/batch_20261127_8670ee/slide_1_hero.png",
+    "item_count": 6,
+    "price_min": 3.99,
+    "price_max": 51.99,
+    "categories": [
+      "Outerwear",
+      "Knitwear & Tops",
+      "Tailoring & Bottoms",
+      "Footwear",
+      "Handbag",
+      "Jewellery"
+    ],
+    "colorways": [
+      "Taupe",
+      "Cream",
+      "Dark Taupe",
+      "Cream / Taupe / Metallic Silver",
+      "Espresso / Dark Taupe",
+      "Gold"
+    ],
+    "item_titles": [
+      "Womens Long Belted Coat Ladies Double Breasted Wool Look Trench Style Overcoat with Pockets 100% Polyester Autumn Winter UK 8-22",
+      "LILLUSORY Women's Oversized Jumpers UK Cable Knit Chunky Sweaters",
+      "SINOPHANT High Waisted Leggings for Women Workout Gym Yoga",
+      "Skechers Women's OG 85 Goldn Gurl Trainer",
+      "befen Genuine Leather Handbags for Women Large Tote Bag with Keychain",
+      "Chunky Gold Drop Earrings, Hammered Statement Dangle Earrings for Women"
+    ]
+  },
+  {
     "batch_id": "batch_20261127_56712e",
     "theme_title": "Espresso Star Fleece & Suede Edit",
     "season_label": "Autumn/Winter Cozy Casual Capsule",
